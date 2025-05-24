@@ -1,0 +1,2 @@
+a = 'hehehe'
+print(a)
